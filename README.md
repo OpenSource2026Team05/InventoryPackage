@@ -37,28 +37,26 @@ com.cheeseandthemoon.inventory/
 ├── CHANGELOG.md
 │
 ├── Runtime/
-│   │
-│   ├── Core/
-│   │   ├── Object_Grabbable.cs
-│   │   └── InventoryData.cs
-│   │
-│   ├── UI/
-│   │   ├── InventoryUIManager.cs
-│   │   ├── InventoryUIEffect.cs
-│   │   ├── BringData.cs
-│   │   ├── InventoryDisplayData.cs
-│   │   └── InventoryMeshPartData.cs
-│   │
-│   ├── Prefabs/
-│   │   └── InventorySystem.prefab
-│   │
-│   ├── Art/
-│   │   └── UI image assets
-│   │
-│   └── CheeseAndTheMoon.Inventory.asmdef
-│
-└── Samples~/
-    └── BasicInventoryDemo/
+    │
+    ├── Core/
+    │   ├── Object_Grabbable.cs
+    │   └── InventoryData.cs
+    │
+    ├── UI/
+    │   ├── InventoryUIManager.cs
+    │   ├── InventoryUIEffect.cs
+    │   ├── BringData.cs
+    │   ├── InventoryDisplayData.cs
+    │   └── InventoryMeshPartData.cs
+    │
+    ├── Prefabs/
+    │   └── InventorySystem.prefab
+    │
+    ├── Art/
+    │   └── UI image assets
+    │
+    └── CheeseAndTheMoon.Inventory.asmdef
+
 ```
 
 `Samples~` is optional and may be added later.
